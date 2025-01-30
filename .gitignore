@@ -1,0 +1,9 @@
+# ไม่ติดตาม node_modules
+node_modules/
+
+# ไม่ติดตามไฟล์ Environment Variables
+.env
+
+# ไม่ติดตามโฟลเดอร์ build หรือ dist
+build/
+dist/
